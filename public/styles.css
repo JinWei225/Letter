@@ -5,7 +5,7 @@ header {
     width: 340px;
     font-family: 'Josefin Sans', sans-serif;
     position: relative;
-    left: 7%;
+    left: 5%;
     font-size: large;
     border-radius: 25px;
     padding: 0 0 0 10px;
@@ -41,7 +41,7 @@ hr {
 
     position: relative;
     top: 50%;
-    left: 62%;
+    left: 64%;
     margin-top: -160px;
     margin-left: -230px;
     border-radius: 30px;

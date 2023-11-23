@@ -1,0 +1,78 @@
+header {
+    color: white;
+    background-color: #B0926A;
+    height: 50px;
+    width: 340px;
+    font-family: 'Josefin Sans', sans-serif;
+    position: relative;
+    left: 8%;
+    font-size: large;
+    border-radius: 25px;
+    padding: 0 0 0 10px;
+    box-shadow: 3px 3px #776B5D;
+}
+
+body {
+    background-color: #F3EEEA;
+}
+
+hr {
+    background-color: #FFF8C9;
+    height: 3px;
+    width: 20px;
+    border: 0;
+}
+
+.letter {
+    margin: 1rem;
+    padding: 10px 50px 10px 50px;
+    font-family: 'Noto Sans SC', sans-serif;
+    line-height: 1.8;
+    letter-spacing: 1px;
+    background-color: #E1C78F;
+    border-radius: 50px;
+    box-shadow: 7px 7px #776B5D;
+}
+
+.opening1 {
+    height: 360px;
+    width: 500px;
+    background: #E1C78F;
+
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    margin-top: -160px;
+    margin-left: -230px;
+    border-radius: 30px;
+    box-shadow: 3px 3px #706233;
+}
+
+.opening2 {
+    height: 300px;
+    width: 440px;
+    background: #E1C78F;
+
+    position: relative;
+    top: 50%;
+    left: 50%;
+    margin-top: -150px;
+    margin-left: -220px;
+    padding: 50px 10px;
+
+    font-size: 1rem;
+    font-family: 'Ma Shan Zheng', cursive;
+
+    border-radius: 30px;
+    border: 5px #706233;
+    border-style: solid;
+}
+
+.btn {
+    background-color: #BCA37F;
+    font-family: 'Ma Shan Zheng', cursive;
+}
+
+.form1 {
+    text-align: center;
+}
